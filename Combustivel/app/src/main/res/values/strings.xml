@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Combustivel</string>
+    <string name="autor">Gustavo de Paula 1110482313003</string>
+    <string name="gasolina">Valor da Gasolina</string>
+    <string name="etanol">Valor do Etanol</string>
+    <string name="botao">Verificar</string>
+    <string name="resultado"></string>
+</resources>
